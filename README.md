@@ -1,5 +1,7 @@
 # AgentFrame: Marketing
 
+> **Archived (v1, complete).** Succeeded by [AgentFrame](https://github.com/situhacks/agentframe) — the multi-domain version (marketing + project management, and more).
+
 <p align="center">
   <img src=".github/readme-assets/banner.png" alt="AgentFrame: Marketing — a full-stack marketing workspace inside your AI coding agent" width="100%" />
 </p>
